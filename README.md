@@ -14,5 +14,6 @@ const myObj = {
   
   bottom: "pants"
   }
+  
 myObj.hasOwnProperty("top");
 myObj.hasOwnProperty("middle");
