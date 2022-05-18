@@ -21,4 +21,5 @@ myObj.hasOwnProperty("top");
 myObj.hasOwnProperty("middle");
 
 The first hasOwnProperty returns true, while the second returns false.
+
 Modify the function checkObj to test if an object passed to the function (obj) 
