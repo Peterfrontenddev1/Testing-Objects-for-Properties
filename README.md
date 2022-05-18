@@ -16,4 +16,5 @@ const myObj = {
   }
   
 myObj.hasOwnProperty("top");
+
 myObj.hasOwnProperty("middle");
