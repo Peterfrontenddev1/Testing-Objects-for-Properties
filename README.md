@@ -31,3 +31,5 @@ If the property is found, return that property's value. If not, return "Not Foun
 checkObj({gift: "pony", pet: "kitten", bed: "sleigh"}, "gift") should return the string pony.
 
 checkObj({gift: "pony", pet: "kitten", bed: "sleigh"}, "pet") should return the string kitten.
+
+checkObj({gift: "pony", pet: "kitten", bed: "sleigh"}, "house") should return the string Not Found.
