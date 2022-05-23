@@ -33,4 +33,5 @@ checkObj({gift: "pony", pet: "kitten", bed: "sleigh"}, "gift") should return the
 checkObj({gift: "pony", pet: "kitten", bed: "sleigh"}, "pet") should return the string kitten.
 
 checkObj({gift: "pony", pet: "kitten", bed: "sleigh"}, "house") should return the string Not Found.
+
 checkObj({city: "Seattle"}, "city") should return the string Seattle.
