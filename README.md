@@ -36,6 +36,7 @@ checkObj({gift: "pony", pet: "kitten", bed: "sleigh"}, "house") should return th
 checkObj({city: "Seattle"}, "city") should return the string Seattle.
 
 function checkObj(obj, checkProp) {
+
   // Only change code below this line
  
    return "Change Me!";
