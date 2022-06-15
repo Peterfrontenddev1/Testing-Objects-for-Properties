@@ -14,7 +14,7 @@ const myObj =
   
   bottom: "pants"
 
-  }
+ }
  
 myObj.hasOwnProperty("top");
 
