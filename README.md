@@ -8,6 +8,7 @@ We can use the .hasOwnProperty(propname) method of objects to determine if that 
 
 Example
 
+
 const myObj = 
 
   top: "hat",
