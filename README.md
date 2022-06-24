@@ -12,7 +12,6 @@ const myObj =
 
   top: "hat",
   
-  
   bottom: "pants"
  }
  
