@@ -37,6 +37,7 @@ checkObj({city: "Seattle"}, "city") should return the string Seattle.
 
 function checkObj(obj, checkProp) {
 
+
   // Only change code below this line
  
    return "Change Me!";
