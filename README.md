@@ -17,7 +17,6 @@ const myObj =
  
 myObj.hasOwnProperty("top");
 
-
 myObj.hasOwnProperty("middle");
 
 The first hasOwnProperty returns true, while the second returns false.
